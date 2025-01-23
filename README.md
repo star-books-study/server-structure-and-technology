@@ -1,5 +1,5 @@
 # 그림으로 이해하는 서버 구조와 기술
-<img src="https://image.yes24.com/goods/127086566/XL" width="300">
+<img src="https://github.com/user-attachments/assets/ad0e1f5a-71a7-424f-a790-71785ea54f80" width="300">
 
 ## 📚 스터디 규칙
 
